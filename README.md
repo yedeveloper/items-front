@@ -1,4 +1,4 @@
-# Fronten proyecto prueba
+# Frontend proyecto prueba
 
 El proyecto se realiza en React. 
 Version de NodeJs `v16.13.2` 
